@@ -1,0 +1,8 @@
+{
+  "name": "GlobalStream Desktop",
+  "description": "Stream international live TV with low-latency playback, custom playlists, picture-in-picture, and a sleek, searchable dark-mode interface.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
